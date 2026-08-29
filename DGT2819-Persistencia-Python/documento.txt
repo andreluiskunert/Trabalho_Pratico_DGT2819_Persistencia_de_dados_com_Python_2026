@@ -1,0 +1,7 @@
+Python é uma linguagem de programação muito utilizada no desenvolvimento de sistemas.
+A programação permite criar aplicações para diferentes áreas da tecnologia.
+Os algoritmos são importantes para resolver problemas de maneira eficiente.
+A persistência de dados permite armazenar informações para utilização posterior.
+Python possui recursos para leitura e escrita de arquivos.
+Os algoritmos Bubble Sort e Selection Sort são métodos tradicionais de ordenação.
+O método sort é uma solução nativa da linguagem Python para ordenar listas.
