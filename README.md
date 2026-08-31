@@ -211,3 +211,4 @@ Projeto desenvolvido para fins acadêmicos.
 ---
 
 ⭐ Projeto desenvolvido durante os estudos de **Python, algoritmos de ordenação e persistência de dados**.
+Obs.: corrigido..

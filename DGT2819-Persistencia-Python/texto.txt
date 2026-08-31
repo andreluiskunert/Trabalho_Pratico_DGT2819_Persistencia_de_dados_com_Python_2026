@@ -1,0 +1,5 @@
+Python é uma linguagem de programação.
+Python permite trabalhar com arquivos.
+Python possui diversos algoritmos de ordenação.
+A persistência de dados é importante para aplicações.
+Este arquivo foi criado automaticamente pelo programa.
